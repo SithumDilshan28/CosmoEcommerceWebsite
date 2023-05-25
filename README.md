@@ -1,64 +1,21 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# COSMO: PHP Laravel Web Application for Online Ecommerce
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Cosmo Ecommerce Website is an innovative PHP Laravel web application developed as the final project for the university's HD program. It serves as a comprehensive and dynamic online ecommerce platform, providing users with an immersive shopping experience and empowering businesses to showcase and sell their products online. Cosmo Ecommerce Website combines the power of Laravel with intuitive design and robust functionality to deliver a seamless and secure online shopping environment.
 
-## About Laravel
+Key Features:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Product Catalog and Listings: Cosmo Ecommerce Website offers a vast product catalog with an extensive range of products across different categories. Users can explore the catalog, view product details, images, specifications, and pricing information. The application allows businesses to easily add and manage their products, ensuring a dynamic and up-to-date product inventory.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+User Registration and Authentication: The application includes a user registration and authentication system. Users can create individual accounts, enabling them to personalize their shopping experience, manage their orders, and access features like wishlists and product reviews. User authentication ensures secure access to account information and maintains user privacy.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Shopping Cart and Checkout: Cosmo Ecommerce Website provides a seamless shopping cart functionality, allowing users to add products to their cart while they continue browsing. The application features a streamlined checkout process, enabling users to review their order, input shipping and payment details, and complete their purchase with ease.
 
-## Learning Laravel
+Payment Gateway Integration: The application integrates popular and secure payment gateways, enabling users to make online payments using various methods, including credit cards, debit cards, and digital wallets. This integration ensures a secure and convenient transaction process for customers, increasing confidence in the platform.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Order Management: Cosmo Ecommerce Website offers a comprehensive order management system for both customers and administrators. Customers can view and track their orders, receive updates on order status, and access order history. Administrators have access to a dedicated portal to manage orders, update order status, and handle customer inquiries efficiently.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Reviews and Ratings: The application allows customers to submit reviews and ratings for products they have purchased. This feature provides valuable feedback for other users and helps build trust and credibility. Customers can read reviews and view ratings to make informed purchase decisions.
 
-## Laravel Sponsors
+Responsive Design and Customization: Cosmo Ecommerce Website is built with a responsive design, ensuring optimal user experience across various devices, including desktops, laptops, tablets, and smartphones. The application also offers customization options, allowing businesses to tailor the website's appearance and branding to align with their unique identity.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Cosmo Ecommerce Website, developed as the university's HD final project, showcases the ability to create a sophisticated and feature-rich online ecommerce platform using PHP Laravel. With its intuitive user interface, robust functionality, and secure payment integration, this web application provides a reliable and seamless online shopping experience for users while enabling businesses to expand their reach and grow their online presence.
