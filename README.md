@@ -1,4 +1,4 @@
-# COSMO: PHP Laravel Web Application for Online Ecommerce
+# COSMO: PHP Laravel Web Application for Online Ecommerce 
 
 Cosmo Ecommerce Website is an innovative PHP Laravel web application developed as the final project for the university's HD program. It serves as a comprehensive and dynamic online ecommerce platform, providing users with an immersive shopping experience and empowering businesses to showcase and sell their products online. Cosmo Ecommerce Website combines the power of Laravel with intuitive design and robust functionality to deliver a seamless and secure online shopping environment.
 
